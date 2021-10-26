@@ -1,0 +1,40 @@
+Charset
+conversion when  ( )YES  (*)NO
+loading
+Adjust search
+string for       (*)YES  ( )NO
+document charset
+Fix character
+width when       (*)YES  ( )NO
+conversion
+Use GB 12345
+Unicode map      ( )YES  (*)NO
+instead of GB
+2312's
+Use JIS X 0201
+Roman for        ( )YES  (*)NO
+ISO-2022-JP
+Use JIS C
+6226:1978 for    ( )YES  (*)NO
+ISO-2022-JP
+Use JIS X 0201   ( )YES  (*)NO
+Katakana
+Use JIS X
+0212:1990        ( )YES  (*)NO
+(Supplemental
+Kanji)
+Use JIS X
+0213:2000        ( )YES  (*)NO
+(2000JIS)
+Strict
+ISO-2022-JP/KR/  (*)YES  ( )NO
+CN
+Treat 4 bytes
+char. of GB18030 ( )YES  (*)NO
+as Unicode
+Simple Preserve  ( )YES  (*)NO
+space
+                 [OK]
+            ━━━━━━━━━━━━━━━━━━━━━━━
+
+Viewing <Option Setting Panel>
